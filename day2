@@ -1,0 +1,41 @@
+# Dominic Miller
+# Python 
+# LEAP Week 5
+# Unfortunately, I was unable to get through all of the videos, readings, and modules. I plan to continue to work through these in the coming mornings before instructor training as well as on learning days.
+
+def main():
+  print ("Hello World!")
+  name = input("What is your name?")
+  print ("Nice to meet you," name
+
+
+if (x < y):
+  st = "X is less than y"
+elif (x == y):
+  st = "X is the same as Y"
+else:
+  st = "X is greater than y"
+
+
+while (x < 5):
+  print x
+x = x + 1
+
+for x in range(5, 10):
+  print (x)
+
+class myClass():
+  def method1(self):
+    print ("myClass method1")
+
+def main():
+
+# Can import many different modules in python- some of them include math and random. Can be helpful for building programs. 
+
+# Opening Files
+f = open ("Textfile.txt", "w+"
+
+age = int(input("How old are you?"\n))
+decades = age//10
+years = age %10
+print ("You are" + str(decades) + "decades and"+ str(years) "years old")
